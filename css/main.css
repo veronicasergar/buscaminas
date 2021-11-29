@@ -1,0 +1,16 @@
+html {
+  color: #222;
+  font-size: 1em;
+  line-height: 1.4;
+}
+
+button {
+  width: 55px;
+  height: 55px;
+  background-color: #888888;
+}
+
+#tablero{
+  display: block;
+  justify-content: center;
+}
